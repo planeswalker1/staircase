@@ -1,0 +1,2 @@
+# staircase
+looping programming challenge
