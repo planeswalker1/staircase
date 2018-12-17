@@ -1,6 +1,6 @@
 # _staircase_
 
-#### _looping programming challenge, 12.14.2018_
+#### _looping programming challenge, 12.16.2018_
 
 #### By _**planeswalker1**_
 
@@ -26,7 +26,7 @@ Write a program that prints a staircase of size _n_.
 
 **Function Description**
 
-Complete the staircase function in the editor below. It should print a staircase as described above.
+Create a function that should print a staircase as described above.
 
 staircase has the following parameter(s):
 
